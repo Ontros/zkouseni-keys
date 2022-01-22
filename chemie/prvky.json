@@ -1,6 +1,6 @@
 {
-    "key1": "Název",
-    "key2": "Zkratka",
+    "key1": "Zkratka->Název",
+    "key2": "Název->Zkratka",
     "keys": [
         {
             "a": "H",
