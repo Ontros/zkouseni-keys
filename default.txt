@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Ontros/zkouseni-keys/main/rustinka/slovicka-L19.json
+https://raw.githubusercontent.com/Ontros/zkouseni-keys/main/chemie/prvky.json
