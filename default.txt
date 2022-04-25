@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Ontros/zkouseni-keys/main/chemie/prvky.json
+https://raw.githubusercontent.com/Ontros/zkouseni-keys/main/english/verbPatterns.json
