@@ -1,0 +1,325 @@
+{
+    "config": {
+        "isSwitchable": false,
+        "predefinedAnswers": [
+            "to",
+            "ing",
+            "inf",
+            "smb",
+            "ing or to"
+        ],
+        "allowCustomAnswers": false
+    },
+    "key1": "verb",
+    "key2": "verb pattern",
+    "keys": [
+        {
+            "a": "recommend smb (do)",
+            "b": "to"
+        },
+        {
+            "a": "decide",
+            "b": "to"
+        },
+        {
+            "a": "manage",
+            "b": "to"
+        },
+        {
+            "a": "promise",
+            "b": "to"
+        },
+        {
+            "a": "chase",
+            "b": "to"
+        },
+        {
+            "a": "need",
+            "b": "to"
+        },
+        {
+            "a": "expect",
+            "b": "to"
+        },
+        {
+            "a": "want",
+            "b": "to"
+        },
+        {
+            "a": "seem",
+            "b": "to"
+        },
+        {
+            "a": "tend",
+            "b": "to"
+        },
+        {
+            "a": "learn",
+            "b": "to"
+        },
+        {
+            "a": "allow",
+            "b": "to"
+        },
+        {
+            "a": "invite",
+            "b": "to"
+        },
+        {
+            "a": "order",
+            "b": "to"
+        },
+        {
+            "a": "tell",
+            "b": "to"
+        },
+        {
+            "a": "refuse",
+            "b": "to"
+        },
+        {
+            "a": "hope",
+            "b": "to"
+        },
+        {
+            "a": "plan",
+            "b": "to"
+        },
+        {
+            "a": "mean",
+            "b": "to"
+        },
+        {
+            "a": "intend",
+            "b": "to"
+        },
+        {
+            "a": "afford",
+            "b": "to"
+        },
+        {
+            "a": "advise",
+            "b": "to"
+        },
+        {
+            "a": "agree",
+            "b": "to"
+        },
+        {
+            "a": "offer",
+            "b": "to"
+        },
+        {
+            "a": "would like",
+            "b": "to"
+        },
+        {
+            "a": "would love",
+            "b": "to"
+        },
+        {
+            "a": "would hate",
+            "b": "to"
+        },
+        {
+            "a": "would prefer",
+            "b": "to"
+        },
+        {
+            "a": "outght",
+            "b": "to"
+        },
+        {
+            "a": "used",
+            "b": "to"
+        },
+        {
+            "a": "have",
+            "b": "to"
+        },
+        {
+            "a": "be able",
+            "b": "to"
+        },
+        {
+            "a": "suggest",
+            "b": "ing"
+        },
+        {
+            "a": "look forward to",
+            "b": "ing"
+        },
+        {
+            "a": "consider",
+            "b": "ing"
+        },
+        {
+            "a": "enjoy",
+            "b": "ing"
+        },
+        {
+            "a": "admit",
+            "b": "ing"
+        },
+        {
+            "a": "adore",
+            "b": "ing"
+        },
+        {
+            "a": "imagine",
+            "b": "ing"
+        },
+        {
+            "a": "dislike",
+            "b": "ing"
+        },
+        {
+            "a": "avoid",
+            "b": "ing"
+        },
+        {
+            "a": "hate",
+            "b": "ing"
+        },
+        {
+            "a": "miss",
+            "b": "ing"
+        },
+        {
+            "a": "fancy",
+            "b": "ing"
+        },
+        {
+            "a": "finish",
+            "b": "ing"
+        },
+        {
+            "a": "recommend (do) something",
+            "b": "ing"
+        },
+        {
+            "a": "give up",
+            "b": "ing"
+        },
+        {
+            "a": "practise",
+            "b": "ing"
+        },
+        {
+            "a": "mind",
+            "b": "ing"
+        },
+        {
+            "a": "forgive",
+            "b": "ing"
+        },
+        {
+            "a": "deny",
+            "b": "ing"
+        },
+        {
+            "a": "can't help",
+            "b": "ing"
+        },
+        {
+            "a": "can't stop",
+            "b": "ing"
+        },
+        {
+            "a": "can't stand",
+            "b": "ing"
+        },
+        {
+            "a": "can",
+            "b": "inf"
+        },
+        {
+            "a": "must",
+            "b": "inf"
+        },
+        {
+            "a": "should",
+            "b": "inf"
+        },
+        {
+            "a": "will",
+            "b": "inf"
+        },
+        {
+            "a": "would",
+            "b": "inf"
+        },
+        {
+            "a": "shall",
+            "b": "inf"
+        },
+        {
+            "a": "may",
+            "b": "inf"
+        },
+        {
+            "a": "might",
+            "b": "inf"
+        },
+        {
+            "a": "help",
+            "b": "inf"
+        },
+        {
+            "a": "let",
+            "b": "smb"
+        },
+        {
+            "a": "make",
+            "b": "smb"
+        },
+        {
+            "a": "begin",
+            "b": "ing or to"
+        },
+        {
+            "a": "start",
+            "b": "ing or to"
+        },
+        {
+            "a": "continue",
+            "b": "ing or to"
+        },
+        {
+            "a": "love",
+            "b": "ing or to"
+        },
+        {
+            "a": "like",
+            "b": "ing or to"
+        },
+        {
+            "a": "hate",
+            "b": "ing or to"
+        },
+        {
+            "a": "prefer",
+            "b": "ing or to"
+        },
+        {
+            "a": "remember",
+            "b": "ing or to"
+        },
+        {
+            "a": "try",
+            "b": "ing or to"
+        },
+        {
+            "a": "stop",
+            "b": "ing or to"
+        },
+        {
+            "a": "forget",
+            "b": "ing or to"
+        },
+        {
+            "a": "regret",
+            "b": "ing or to"
+        }
+    ]
+}
