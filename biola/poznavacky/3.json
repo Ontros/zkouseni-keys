@@ -1,0 +1,224 @@
+{
+    "config": {
+        "isSwitchable": false,
+        "predefinedAnswers": [],
+        "allowCustomAnswers": true,
+        "useImages": true
+    },
+    "key1": "obrazek",
+    "key2": "zivocich",
+    "keys": [
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/atlas.jpg",
+            "b": "atlas"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/babočka admirál.jpg",
+            "b": "babočka admirál"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/babočka kopřivová.jpg",
+            "b": "babočka kopřivová"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/babočka osiková.jpg",
+            "b": "babočka osiková"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/babočka paví oko.jpg",
+            "b": "babočka paví oko"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/bekyně mniška.jpg",
+            "b": "bekyně mniška"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/bělásek zelný .jpg",
+            "b": "bělásek zelný "
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/chiméra hlavatá.jpg",
+            "b": "chiméra hlavatá"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/chrobák velký.jpg",
+            "b": "chrobák velký"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/hadice obecná.jpg",
+            "b": "hadice obecná"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/hovnivál.jpg",
+            "b": "hovnivál"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/hvězdice pětiúhlá.jpg",
+            "b": "hvězdice pětiúhlá"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/hvězdice růžová.jpg",
+            "b": "hvězdice růžová"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/jasoň červenooký.jpg",
+            "b": "jasoň červenooký"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/ježovka obecná.jpg",
+            "b": "ježovka obecná"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/kopinatec plžovitý.jpg",
+            "b": "kopinatec plžovitý"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/kozlíček dazule.jpg",
+            "b": "kozlíček dazule"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/lišaj smrtihlav.jpg",
+            "b": "lišaj smrtihlav"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/lýkožrout smrkový.jpg",
+            "b": "lýkožrout smrkový"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/mandelinka bramborová.jpg",
+            "b": "mandelinka bramborová"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/mandelinka ředkvičková.jpg",
+            "b": "mandelinka ředkvičková"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/manta obrovská.jpg",
+            "b": "manta obrovská"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/martináč hrušňový.jpg",
+            "b": "martináč hrušňový"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/mihule potoční.jpg",
+            "b": "mihule potoční"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/mihule říční.jpg",
+            "b": "mihule říční"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/modrásek.jpg",
+            "b": "modrásek"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/mol šatní.jpg",
+            "b": "mol šatní"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/morpho.jpg",
+            "b": "morpho"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/máčka skvrnitá.jpg",
+            "b": "máčka skvrnitá"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/můra gama.jpg",
+            "b": "můra gama"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/obaleč jabloňový.jpg",
+            "b": "obaleč jabloňový"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/otakárek fenyklový.jpg",
+            "b": "otakárek fenyklový"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/otakárek ovocný.jpg",
+            "b": "otakárek ovocný"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/piloun obecný.jpg",
+            "b": "piloun obecný"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/přástevník medvědí.jpg",
+            "b": "přástevník medvědí"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/rejnok ostnatý.jpg",
+            "b": "rejnok ostnatý"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/roháč obecný.jpg",
+            "b": "roháč obecný"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/roháček kozlík.jpg",
+            "b": "roháček kozlík"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/slunéčko dvojtečné.jpg",
+            "b": "slunéčko dvojtečné"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/slunéčko sedmitečné.jpg",
+            "b": "slunéčko sedmitečné"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/stužkonoska modrá.jpg",
+            "b": "stužkonoska modrá"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/sumka obecná.jpg",
+            "b": "sumka obecná"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/sumýš jedlý.jpg",
+            "b": "sumýš jedlý"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/tesařík obecný.jpg",
+            "b": "tesařík obecný"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/tesařík obrovský.jpg",
+            "b": "tesařík obrovský"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/trnucha obecná.jpg",
+            "b": "trnucha obecná"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/uwu.jpg",
+            "b": "uwu"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/zlatohlávek zlatý.jpg",
+            "b": "zlatohlávek zlatý"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/žluťásek.jpg",
+            "b": "žluťásek"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/žralok bílý.jpg",
+            "b": "žralok bílý"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/žralok kladivoun.jpg",
+            "b": "žralok kladivoun"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/žralok obrovský.jpg",
+            "b": "žralok obrovský"
+        },
+        {
+            "a": "https://gitlab.com/biola-poznavacka/1/-/raw/main/2/žralok šedý.jpg",
+            "b": "žralok šedý"
+        }
+    ]
+}
