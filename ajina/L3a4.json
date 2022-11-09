@@ -9,540 +9,540 @@
     "key2": "Cesky->Anglicky",
     "keys": [
         {
-            "a": "Prosperity",
-            "b": "blahobyt"
+            "b": "Prosperity",
+            "a": "blahobyt"
         },
         {
-            "a": "Happiness",
-            "b": "štěstí"
+            "b": "Happiness",
+            "a": "štěstí"
         },
         {
-            "a": "Necessity",
-            "b": "nutnost"
+            "b": "Necessity",
+            "a": "nutnost"
         },
         {
-            "a": "Appreciate",
-            "b": "ocenit/být vděčný za"
+            "b": "Appreciate",
+            "a": "ocenit/být vděčný za"
         },
         {
-            "a": "Abandoned",
-            "b": "opuštěný/nepoužívaný"
+            "b": "Abandoned",
+            "a": "opuštěný/nepoužívaný"
         },
         {
-            "a": "Long",
-            "b": "lastingdlouho trvající"
+            "b": "Long",
+            "a": "lastingdlouho trvající"
         },
         {
-            "a": "Intangible",
-            "b": "nehmotné"
+            "b": "Intangible",
+            "a": "nehmotné"
         },
         {
-            "a": "Have support of",
-            "b": "mít něčí podporu"
+            "b": "Have support of",
+            "a": "mít něčí podporu"
         },
         {
-            "a": "Trust in",
-            "b": "mít důvěru v"
+            "b": "Trust in",
+            "a": "mít důvěru v"
         },
         {
-            "a": "Kindness",
-            "b": "laskavost"
+            "b": "Kindness",
+            "a": "laskavost"
         },
         {
-            "a": "Generosity",
-            "b": "velkorysost"
+            "b": "Generosity",
+            "a": "velkorysost"
         },
         {
-            "a": "On regular basis",
-            "b": "pravidelně"
+            "b": "On regular basis",
+            "a": "pravidelně"
         },
         {
-            "a": "At once",
-            "b": "najednou"
+            "b": "At once",
+            "a": "najednou"
         },
         {
-            "a": "Require some effort",
-            "b": "vyžadovat určité úsilí"
+            "b": "Require some effort",
+            "a": "vyžadovat určité úsilí"
         },
         {
-            "a": "Healthy diet",
-            "b": "zdravá strava"
+            "b": "Healthy diet",
+            "a": "zdravá strava"
         },
         {
-            "a": "Crucial",
-            "b": "nezbytný"
+            "b": "Crucial",
+            "a": "nezbytný"
         },
         {
-            "a": "Laziness",
-            "b": "lenost"
+            "b": "Laziness",
+            "a": "lenost"
         },
         {
-            "a": "Anxiety",
-            "b": "úzkost"
+            "b": "Anxiety",
+            "a": "úzkost"
         },
         {
-            "a": "Miserable",
-            "b": "utrápený"
+            "b": "Miserable",
+            "a": "utrápený"
         },
         {
-            "a": "A lack of",
-            "b": "nedostatek"
+            "b": "A lack of",
+            "a": "nedostatek"
         },
         {
-            "a": "Tiredness",
-            "b": "únava"
+            "b": "Tiredness",
+            "a": "únava"
         },
         {
-            "a": "Put (somebody) in a bad mood",
-            "b": "dostat někoho do špatné nálady"
+            "b": "Put (somebody) in a bad mood",
+            "a": "dostat někoho do špatné nálady"
         },
         {
-            "a": "Ability",
-            "b": "schopnost"
+            "b": "Ability",
+            "a": "schopnost"
         },
         {
-            "a": "Team sports",
-            "b": "týmové sporty"
+            "b": "Team sports",
+            "a": "týmové sporty"
         },
         {
-            "a": "Apart",
-            "b": "kromě"
+            "b": "Apart",
+            "a": "kromě"
         },
         {
-            "a": "Individual",
-            "b": "individuální"
+            "b": "Individual",
+            "a": "individuální"
         },
         {
-            "a": "Rely on",
-            "b": "spoléhat se na"
+            "b": "Rely on",
+            "a": "spoléhat se na"
         },
         {
-            "a": "In my experience",
-            "b": "z mé zkušenosti"
+            "b": "In my experience",
+            "a": "z mé zkušenosti"
         },
         {
-            "a": "Training session",
-            "b": "trénink"
+            "b": "Training session",
+            "a": "trénink"
         },
         {
-            "a": "Put up with",
-            "b": "snášet/vydržet/nechat si líbit"
+            "b": "Put up with",
+            "a": "snášet/vydržet/nechat si líbit"
         },
         {
-            "a": "Downside",
-            "b": "nevýhoda"
+            "b": "Downside",
+            "a": "nevýhoda"
         },
         {
-            "a": "At competitive level",
-            "b": "na soutěžní úrovni"
+            "b": "At competitive level",
+            "a": "na soutěžní úrovni"
         },
         {
-            "a": "Blame oneself",
-            "b": "vinit sebe"
+            "b": "Blame oneself",
+            "a": "vinit sebe"
         },
         {
-            "a": "Stamina",
-            "b": "výdrž"
+            "b": "Stamina",
+            "a": "výdrž"
         },
         {
-            "a": "Commitment",
-            "b": "oddanost"
+            "b": "Commitment",
+            "a": "oddanost"
         },
         {
-            "a": "Discipline",
-            "b": "disciplína"
+            "b": "Discipline",
+            "a": "disciplína"
         },
         {
-            "a": "Self-esteem",
-            "b": "sebeúcta"
+            "b": "Self-esteem",
+            "a": "sebeúcta"
         },
         {
-            "a": "Self-reliance",
-            "b": "samostatnost"
+            "b": "Self-reliance",
+            "a": "samostatnost"
         },
         {
-            "a": "Self-sacrifice",
-            "b": "obětavost"
+            "b": "Self-sacrifice",
+            "a": "obětavost"
         },
         {
-            "a": "Single-mindness",
-            "b": "cílevědomost"
+            "b": "Single-mindness",
+            "a": "cílevědomost"
         },
         {
-            "a": "Sportsmanship",
-            "b": "sportovní chování"
+            "b": "Sportsmanship",
+            "a": "sportovní chování"
         },
         {
-            "a": "Team spirit",
-            "b": "týmový duch"
+            "b": "Team spirit",
+            "a": "týmový duch"
         },
         {
-            "a": "Determined to",
-            "b": "odhodlaný"
+            "b": "Determined to",
+            "a": "odhodlaný"
         },
         {
-            "a": "Exclamations",
-            "b": "zvolání"
+            "b": "Exclamations",
+            "a": "zvolání"
         },
         {
-            "a": "Cheer up",
-            "b": "hlavu vzhůru"
+            "b": "Cheer up",
+            "a": "hlavu vzhůru"
         },
         {
-            "a": "In the suburbs",
-            "b": "na předměstí"
+            "b": "In the suburbs",
+            "a": "na předměstí"
         },
         {
-            "a": "Obese",
-            "b": "obézní"
+            "b": "Obese",
+            "a": "obézní"
         },
         {
-            "a": "Rapidly",
-            "b": "rychle"
+            "b": "Rapidly",
+            "a": "rychle"
         },
         {
-            "a": "Comfortably",
-            "b": "pohodlně"
+            "b": "Comfortably",
+            "a": "pohodlně"
         },
         {
-            "a": "High school",
-            "b": "střední škola (USA)"
+            "b": "High school",
+            "a": "střední škola (USA)"
         },
         {
-            "a": "Extremely",
-            "b": "extrémně"
+            "b": "Extremely",
+            "a": "extrémně"
         },
         {
-            "a": "Incredibly",
-            "b": "neuvěřitelně"
+            "b": "Incredibly",
+            "a": "neuvěřitelně"
         },
         {
-            "a": "Quickly",
-            "b": "rychle"
+            "b": "Quickly",
+            "a": "rychle"
         },
         {
-            "a": "Cheaply",
-            "b": "levně"
+            "b": "Cheaply",
+            "a": "levně"
         },
         {
-            "a": "Greedy",
-            "b": "chamtivý"
+            "b": "Greedy",
+            "a": "chamtivý"
         },
         {
-            "a": "Sodas",
-            "b": "flavoured fizzy drinks"
+            "b": "Sodas",
+            "a": "flavoured fizzy drinks"
         },
         {
-            "a": "Approach",
-            "b": "přístup/postoj"
+            "b": "Approach",
+            "a": "přístup/postoj"
         },
         {
-            "a": "Consumption",
-            "b": "spotřeba"
+            "b": "Consumption",
+            "a": "spotřeba"
         },
         {
-            "a": "Outlive",
-            "b": "přežít"
+            "b": "Outlive",
+            "a": "přežít"
         },
         {
-            "a": "Frankly",
-            "b": "upřímně"
+            "b": "Frankly",
+            "a": "upřímně"
         },
         {
-            "a": "Clearly",
-            "b": "očividně"
+            "b": "Clearly",
+            "a": "očividně"
         },
         {
-            "a": "Unfortunately",
-            "b": "naneštěstí"
+            "b": "Unfortunately",
+            "a": "naneštěstí"
         },
         {
-            "a": "To my surprise/surprisingly",
-            "b": "překvapivě"
+            "b": "To my surprise/surprisingly",
+            "a": "překvapivě"
         },
         {
-            "a": "Fortunately",
-            "b": "naštěstí"
+            "b": "Fortunately",
+            "a": "naštěstí"
         },
         {
-            "a": "So that",
-            "b": "proto aby"
+            "b": "So that",
+            "a": "proto aby"
         },
         {
-            "a": "Since",
-            "b": "neboť/jelikož"
+            "b": "Since",
+            "a": "neboť/jelikož"
         },
         {
-            "a": "In order to",
-            "b": "za účelem/aby"
+            "b": "In order to",
+            "a": "za účelem/aby"
         },
         {
-            "a": "Colloquial phrases",
-            "b": "hovorové výrazy"
+            "b": "Colloquial phrases",
+            "a": "hovorové výrazy"
         },
         {
-            "a": "I am sorry I have not been in touch for a while",
-            "b": "(fráze)"
+            "b": "I am sorry I have not been in touch for a while",
+            "a": "(fráze)"
         },
         {
-            "a": "Study hard",
-            "b": "hodně se učit"
+            "b": "Study hard",
+            "a": "hodně se učit"
         },
         {
-            "a": "Stressed out about",
-            "b": "vystresovaný kvůli"
+            "b": "Stressed out about",
+            "a": "vystresovaný kvůli"
         },
         {
-            "a": "Scenery",
-            "b": "krajina"
+            "b": "Scenery",
+            "a": "krajina"
         },
         {
-            "a": "Actually",
-            "b": "vlastně"
+            "b": "Actually",
+            "a": "vlastně"
         },
         {
-            "a": "Take care",
-            "b": "opatruj se"
+            "b": "Take care",
+            "a": "opatruj se"
         },
         {
-            "a": "Committed",
-            "b": "oddaný"
+            "b": "Committed",
+            "a": "oddaný"
         },
         {
-            "a": "Relieved",
-            "b": "úleva"
+            "b": "Relieved",
+            "a": "úleva"
         },
         {
-            "a": "Except",
-            "b": "kromě/až na"
+            "b": "Except",
+            "a": "kromě/až na"
         },
         {
-            "a": "In answer to your question",
-            "b": "odpověď na tvoji otázku"
+            "b": "In answer to your question",
+            "a": "odpověď na tvoji otázku"
         },
         {
-            "a": "Demands",
-            "b": "požadují"
+            "b": "Demands",
+            "a": "požadují"
         },
         {
-            "a": "Inappropriate",
-            "b": "nevhodný"
+            "b": "Inappropriate",
+            "a": "nevhodný"
         },
         {
-            "a": "Anger",
-            "b": "hněv"
+            "b": "Anger",
+            "a": "hněv"
         },
         {
-            "a": "Surprise",
-            "b": "překvapení"
+            "b": "Surprise",
+            "a": "překvapení"
         },
         {
-            "a": "Shock",
-            "b": "šok"
+            "b": "Shock",
+            "a": "šok"
         },
         {
-            "a": "Fear",
-            "b": "strach"
+            "b": "Fear",
+            "a": "strach"
         },
         {
-            "a": "Happiness",
-            "b": "štěstí"
+            "b": "Happiness",
+            "a": "štěstí"
         },
         {
-            "a": "Sadness",
-            "b": "smutek"
+            "b": "Sadness",
+            "a": "smutek"
         },
         {
-            "a": "Annoyed",
-            "b": "otrávený"
+            "b": "Annoyed",
+            "a": "otrávený"
         },
         {
-            "a": "Cross",
-            "b": "naštvaný"
+            "b": "Cross",
+            "a": "naštvaný"
         },
         {
-            "a": "Furious",
-            "b": "vzteklý"
+            "b": "Furious",
+            "a": "vzteklý"
         },
         {
-            "a": "Delighted",
-            "b": "velmi potěšený"
+            "b": "Delighted",
+            "a": "velmi potěšený"
         },
         {
-            "a": "Pleased",
-            "b": "potěšený"
+            "b": "Pleased",
+            "a": "potěšený"
         },
         {
-            "a": "Excited",
-            "b": "nadšený"
+            "b": "Excited",
+            "a": "nadšený"
         },
         {
-            "a": "Devastated",
-            "b": "zdrcený"
+            "b": "Devastated",
+            "a": "zdrcený"
         },
         {
-            "a": "Upset",
-            "b": "rozhozený"
+            "b": "Upset",
+            "a": "rozhozený"
         },
         {
-            "a": "Unhappy",
-            "b": "nešťastný"
+            "b": "Unhappy",
+            "a": "nešťastný"
         },
         {
-            "a": "Frightened",
-            "b": "vyděšený"
+            "b": "Frightened",
+            "a": "vyděšený"
         },
         {
-            "a": "Petrified",
-            "b": "k smrti vyděšený"
+            "b": "Petrified",
+            "a": "k smrti vyděšený"
         },
         {
-            "a": "Scared",
-            "b": "mající obavy"
+            "b": "Scared",
+            "a": "mající obavy"
         },
         {
-            "a": "Appalled",
-            "b": "zděšený"
+            "b": "Appalled",
+            "a": "zděšený"
         },
         {
-            "a": "Disgusted",
-            "b": "znechucený"
+            "b": "Disgusted",
+            "a": "znechucený"
         },
         {
-            "a": "Shocked",
-            "b": "šokovaný"
+            "b": "Shocked",
+            "a": "šokovaný"
         },
         {
-            "a": "Amazed",
-            "b": "úžaslý"
+            "b": "Amazed",
+            "a": "úžaslý"
         },
         {
-            "a": "Astonished",
-            "b": "ohromený"
+            "b": "Astonished",
+            "a": "ohromený"
         },
         {
-            "a": "surprised",
-            "b": "překvapený"
+            "b": "surprised",
+            "a": "překvapený"
         },
         {
-            "a": "Dizzy",
-            "b": "nevolno"
+            "b": "Dizzy",
+            "a": "nevolno"
         },
         {
-            "a": "Shivery",
-            "b": "třást se"
+            "b": "Shivery",
+            "a": "třást se"
         },
         {
-            "a": "Sick",
-            "b": "nemocně + špatně od žaludku"
+            "b": "Sick",
+            "a": "nemocně + špatně od žaludku"
         },
         {
-            "a": "Unwell",
-            "b": "necítit se dobře"
+            "b": "Unwell",
+            "a": "necítit se dobře"
         },
         {
-            "a": "Weak",
-            "b": "slabý"
+            "b": "Weak",
+            "a": "slabý"
         },
         {
-            "a": "A cough",
-            "b": "kašel"
+            "b": "A cough",
+            "a": "kašel"
         },
         {
-            "a": "Chest pains",
-            "b": "bolest hrudi"
+            "b": "Chest pains",
+            "a": "bolest hrudi"
         },
         {
-            "a": "A headache",
-            "b": "bolest hlavy"
+            "b": "A headache",
+            "a": "bolest hlavy"
         },
         {
-            "a": "Backache",
-            "b": "bolest zad"
+            "b": "Backache",
+            "a": "bolest zad"
         },
         {
-            "a": "A runny nose",
-            "b": "rýma"
+            "b": "A runny nose",
+            "a": "rýma"
         },
         {
-            "a": "A rash",
-            "b": "vyrážka"
+            "b": "A rash",
+            "a": "vyrážka"
         },
         {
-            "a": "A stomachache",
-            "b": "bolest břicha"
+            "b": "A stomachache",
+            "a": "bolest břicha"
         },
         {
-            "a": "Bruised",
-            "b": "zhmožděný"
+            "b": "Bruised",
+            "a": "zhmožděný"
         },
         {
-            "a": "Itchy",
-            "b": "svědící"
+            "b": "Itchy",
+            "a": "svědící"
         },
         {
-            "a": "Sore",
-            "b": "bolavý"
+            "b": "Sore",
+            "a": "bolavý"
         },
         {
-            "a": "Numb",
-            "b": "ztuhlý/necitlivý"
+            "b": "Numb",
+            "a": "ztuhlý/necitlivý"
         },
         {
-            "a": "Swollen",
-            "b": "oteklé"
+            "b": "Swollen",
+            "a": "oteklé"
         },
         {
-            "a": "Painful",
-            "b": "bolestivý"
+            "b": "Painful",
+            "a": "bolestivý"
         },
         {
-            "a": "Sore throat",
-            "b": "bolest v krku"
+            "b": "Sore throat",
+            "a": "bolest v krku"
         },
         {
-            "a": "Neck ache",
-            "b": "bolest za krkem"
+            "b": "Neck ache",
+            "a": "bolest za krkem"
         },
         {
-            "a": "What is the matter",
-            "b": "co se děje"
+            "b": "What is the matter",
+            "a": "co se děje"
         },
         {
-            "a": "How long has it been hurting",
-            "b": "(fráze)"
+            "b": "How long has it been hurting",
+            "a": "(fráze)"
         },
         {
-            "a": "It is spreading down to",
-            "b": "šíří se to dolů k"
+            "b": "It is spreading down to",
+            "a": "šíří se to dolů k"
         },
         {
-            "a": "I can not stop scratching",
-            "b": "nemůžu se přestat škrábat"
+            "b": "I can not stop scratching",
+            "a": "nemůžu se přestat škrábat"
         },
         {
-            "a": "Have you taken anything for this",
-            "b": "(fráze)"
+            "b": "Have you taken anything for this",
+            "a": "(fráze)"
         },
         {
-            "a": "To prescribe",
-            "b": "předepat"
+            "b": "To prescribe",
+            "a": "předepat"
         },
         {
-            "a": "Prescription",
-            "b": "předpis"
+            "b": "Prescription",
+            "a": "předpis"
         },
         {
-            "a": "Does it hurt when you",
-            "b": "(fráze)"
+            "b": "Does it hurt when you",
+            "a": "(fráze)"
         },
         {
-            "a": "This looks serious",
-            "b": "vypadá to vážně"
+            "b": "This looks serious",
+            "a": "vypadá to vážně"
         },
         {
-            "a": "X-ray",
-            "b": "rentgen"
+            "b": "X-ray",
+            "a": "rentgen"
         }
     ]
 }
