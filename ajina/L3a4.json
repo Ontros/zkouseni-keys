@@ -1,0 +1,542 @@
+{
+    "key1": "Anglicky->Cesky",
+    "key2": "Cesky->Anglicky",
+    "keys": [
+        {
+            "a": "Prosperity",
+            "b": "blahobyt"
+        },
+        {
+            "a": "Happiness",
+            "b": "štěstí"
+        },
+        {
+            "a": "Necessity",
+            "b": "nutnost"
+        },
+        {
+            "a": "Appreciate",
+            "b": "ocenit/být vděčný za"
+        },
+        {
+            "a": "Abandoned",
+            "b": "opuštěný/nepoužívaný"
+        },
+        {
+            "a": "Long",
+            "b": "lastingdlouho trvající"
+        },
+        {
+            "a": "Intangible",
+            "b": "nehmotné"
+        },
+        {
+            "a": "Have support of",
+            "b": "mít něčí podporu"
+        },
+        {
+            "a": "Trust in",
+            "b": "mít důvěru v"
+        },
+        {
+            "a": "Kindness",
+            "b": "laskavost"
+        },
+        {
+            "a": "Generosity",
+            "b": "velkorysost"
+        },
+        {
+            "a": "On regular basis",
+            "b": "pravidelně"
+        },
+        {
+            "a": "At once",
+            "b": "najednou"
+        },
+        {
+            "a": "Require some effort",
+            "b": "vyžadovat určité úsilí"
+        },
+        {
+            "a": "Healthy diet",
+            "b": "zdravá strava"
+        },
+        {
+            "a": "Crucial",
+            "b": "nezbytný"
+        },
+        {
+            "a": "Laziness",
+            "b": "lenost"
+        },
+        {
+            "a": "Anxiety",
+            "b": "úzkost"
+        },
+        {
+            "a": "Miserable",
+            "b": "utrápený"
+        },
+        {
+            "a": "A lack of",
+            "b": "nedostatek"
+        },
+        {
+            "a": "Tiredness",
+            "b": "únava"
+        },
+        {
+            "a": "Put (somebody) in a bad mood",
+            "b": "dostat někoho do špatné nálady"
+        },
+        {
+            "a": "Ability",
+            "b": "schopnost"
+        },
+        {
+            "a": "Team sports",
+            "b": "týmové sporty"
+        },
+        {
+            "a": "Apart",
+            "b": "kromě"
+        },
+        {
+            "a": "Individual",
+            "b": "individuální"
+        },
+        {
+            "a": "Rely on",
+            "b": "spoléhat se na"
+        },
+        {
+            "a": "In my experience",
+            "b": "z mé zkušenosti"
+        },
+        {
+            "a": "Training session",
+            "b": "trénink"
+        },
+        {
+            "a": "Put up with",
+            "b": "snášet/vydržet/nechat si líbit"
+        },
+        {
+            "a": "Downside",
+            "b": "nevýhoda"
+        },
+        {
+            "a": "At competitive level",
+            "b": "na soutěžní úrovni"
+        },
+        {
+            "a": "Blame oneself",
+            "b": "vinit sebe"
+        },
+        {
+            "a": "Stamina",
+            "b": "výdrž"
+        },
+        {
+            "a": "Commitment",
+            "b": "oddanost"
+        },
+        {
+            "a": "Discipline",
+            "b": "disciplína"
+        },
+        {
+            "a": "Self-esteem",
+            "b": "sebeúcta"
+        },
+        {
+            "a": "Self-reliance",
+            "b": "samostatnost"
+        },
+        {
+            "a": "Self-sacrifice",
+            "b": "obětavost"
+        },
+        {
+            "a": "Single-mindness",
+            "b": "cílevědomost"
+        },
+        {
+            "a": "Sportsmanship",
+            "b": "sportovní chování"
+        },
+        {
+            "a": "Team spirit",
+            "b": "týmový duch"
+        },
+        {
+            "a": "Determined to",
+            "b": "odhodlaný"
+        },
+        {
+            "a": "Exclamations",
+            "b": "zvolání"
+        },
+        {
+            "a": "Cheer up",
+            "b": "hlavu vzhůru"
+        },
+        {
+            "a": "In the suburbs",
+            "b": "na předměstí"
+        },
+        {
+            "a": "Obese",
+            "b": "obézní"
+        },
+        {
+            "a": "Rapidly",
+            "b": "rychle"
+        },
+        {
+            "a": "Comfortably",
+            "b": "pohodlně"
+        },
+        {
+            "a": "High school",
+            "b": "střední škola (USA)"
+        },
+        {
+            "a": "Extremely",
+            "b": "extrémně"
+        },
+        {
+            "a": "Incredibly",
+            "b": "neuvěřitelně"
+        },
+        {
+            "a": "Quickly",
+            "b": "rychle"
+        },
+        {
+            "a": "Cheaply",
+            "b": "levně"
+        },
+        {
+            "a": "Greedy",
+            "b": "chamtivý"
+        },
+        {
+            "a": "Sodas",
+            "b": "flavoured fizzy drinks"
+        },
+        {
+            "a": "Approach",
+            "b": "přístup/postoj"
+        },
+        {
+            "a": "Consumption",
+            "b": "spotřeba"
+        },
+        {
+            "a": "Outlive",
+            "b": "přežít"
+        },
+        {
+            "a": "Frankly",
+            "b": "upřímně"
+        },
+        {
+            "a": "Clearly",
+            "b": "očividně"
+        },
+        {
+            "a": "Unfortunately",
+            "b": "naneštěstí"
+        },
+        {
+            "a": "To my surprise/surprisingly",
+            "b": "překvapivě"
+        },
+        {
+            "a": "Fortunately",
+            "b": "naštěstí"
+        },
+        {
+            "a": "So that",
+            "b": "proto aby"
+        },
+        {
+            "a": "Since",
+            "b": "neboť/jelikož"
+        },
+        {
+            "a": "In order to",
+            "b": "za účelem/aby"
+        },
+        {
+            "a": "Colloquial phrases",
+            "b": "hovorové výrazy"
+        },
+        {
+            "a": "I am sorry I have not been in touch for a while",
+            "b": "(fráze)"
+        },
+        {
+            "a": "Study hard",
+            "b": "hodně se učit"
+        },
+        {
+            "a": "Stressed out about",
+            "b": "vystresovaný kvůli"
+        },
+        {
+            "a": "Scenery",
+            "b": "krajina"
+        },
+        {
+            "a": "Actually",
+            "b": "vlastně"
+        },
+        {
+            "a": "Take care",
+            "b": "opatruj se"
+        },
+        {
+            "a": "Committed",
+            "b": "oddaný"
+        },
+        {
+            "a": "Relieved",
+            "b": "úleva"
+        },
+        {
+            "a": "Except",
+            "b": "kromě/až na"
+        },
+        {
+            "a": "In answer to your question",
+            "b": "odpověď na tvoji otázku"
+        },
+        {
+            "a": "Demands",
+            "b": "požadují"
+        },
+        {
+            "a": "Inappropriate",
+            "b": "nevhodný"
+        },
+        {
+            "a": "Anger",
+            "b": "hněv"
+        },
+        {
+            "a": "Surprise",
+            "b": "překvapení"
+        },
+        {
+            "a": "Shock",
+            "b": "šok"
+        },
+        {
+            "a": "Fear",
+            "b": "strach"
+        },
+        {
+            "a": "Happiness",
+            "b": "štěstí"
+        },
+        {
+            "a": "Sadness",
+            "b": "smutek"
+        },
+        {
+            "a": "Annoyed",
+            "b": "otrávený"
+        },
+        {
+            "a": "Cross",
+            "b": "naštvaný"
+        },
+        {
+            "a": "Furious",
+            "b": "vzteklý"
+        },
+        {
+            "a": "Delighted",
+            "b": "velmi potěšený"
+        },
+        {
+            "a": "Pleased",
+            "b": "potěšený"
+        },
+        {
+            "a": "Excited",
+            "b": "nadšený"
+        },
+        {
+            "a": "Devastated",
+            "b": "zdrcený"
+        },
+        {
+            "a": "Upset",
+            "b": "rozhozený"
+        },
+        {
+            "a": "Unhappy",
+            "b": "nešťastný"
+        },
+        {
+            "a": "Frightened",
+            "b": "vyděšený"
+        },
+        {
+            "a": "Petrified",
+            "b": "k smrti vyděšený"
+        },
+        {
+            "a": "Scared",
+            "b": "mající obavy"
+        },
+        {
+            "a": "Appalled",
+            "b": "zděšený"
+        },
+        {
+            "a": "Disgusted",
+            "b": "znechucený"
+        },
+        {
+            "a": "Shocked",
+            "b": "šokovaný"
+        },
+        {
+            "a": "Amazed",
+            "b": "úžaslý"
+        },
+        {
+            "a": "Astonished",
+            "b": "ohromený"
+        },
+        {
+            "a": "surprised",
+            "b": "překvapený"
+        },
+        {
+            "a": "Dizzy",
+            "b": "nevolno"
+        },
+        {
+            "a": "Shivery",
+            "b": "třást se"
+        },
+        {
+            "a": "Sick",
+            "b": "nemocně + špatně od žaludku"
+        },
+        {
+            "a": "Unwell",
+            "b": "necítit se dobře"
+        },
+        {
+            "a": "Weak",
+            "b": "slabý"
+        },
+        {
+            "a": "A cough",
+            "b": "kašel"
+        },
+        {
+            "a": "Chest pains",
+            "b": "bolest hrudi"
+        },
+        {
+            "a": "A headache",
+            "b": "bolest hlavy"
+        },
+        {
+            "a": "Backache",
+            "b": "bolest zad"
+        },
+        {
+            "a": "A runny nose",
+            "b": "rýma"
+        },
+        {
+            "a": "A rash",
+            "b": "vyrážka"
+        },
+        {
+            "a": "A stomachache",
+            "b": "bolest břicha"
+        },
+        {
+            "a": "Bruised",
+            "b": "zhmožděný"
+        },
+        {
+            "a": "Itchy",
+            "b": "svědící"
+        },
+        {
+            "a": "Sore",
+            "b": "bolavý"
+        },
+        {
+            "a": "Numb",
+            "b": "ztuhlý/necitlivý"
+        },
+        {
+            "a": "Swollen",
+            "b": "oteklé"
+        },
+        {
+            "a": "Painful",
+            "b": "bolestivý"
+        },
+        {
+            "a": "Sore throat",
+            "b": "bolest v krku"
+        },
+        {
+            "a": "Neck ache",
+            "b": "bolest za krkem"
+        },
+        {
+            "a": "What is the matter",
+            "b": "co se děje"
+        },
+        {
+            "a": "How long has it been hurting",
+            "b": "(fráze)"
+        },
+        {
+            "a": "It is spreading down to",
+            "b": "šíří se to dolů k"
+        },
+        {
+            "a": "I can not stop scratching",
+            "b": "nemůžu se přestat škrábat"
+        },
+        {
+            "a": "Have you taken anything for this",
+            "b": "(fráze)"
+        },
+        {
+            "a": "To prescribe",
+            "b": "předepat"
+        },
+        {
+            "a": "Prescription",
+            "b": "předpis"
+        },
+        {
+            "a": "Does it hurt when you",
+            "b": "(fráze)"
+        },
+        {
+            "a": "This looks serious",
+            "b": "vypadá to vážně"
+        },
+        {
+            "a": "X-ray",
+            "b": "rentgen"
+        }
+    ]
+}
