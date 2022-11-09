@@ -1,6 +1,6 @@
 {
     "config": {
-        "isSwitchable": false,
+        "isSwitchable": true,
         "predefinedAnswers": [],
         "allowCustomAnswers": false,
         "useImages": false
