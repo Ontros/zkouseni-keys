@@ -1,4 +1,10 @@
 {
+    "config": {
+        "isSwitchable": false,
+        "predefinedAnswers": [],
+        "allowCustomAnswers": false,
+        "useImages": false
+    },
     "key1": "Anglicky->Cesky",
     "key2": "Cesky->Anglicky",
     "keys": [
