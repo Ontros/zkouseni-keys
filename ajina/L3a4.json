@@ -1,8 +1,8 @@
 {
     "config": {
-        "isSwitchable": true,
+        "isSwitchable": false,
         "predefinedAnswers": [],
-        "allowCustomAnswers": false,
+        "allowCustomAnswers": true,
         "useImages": false
     },
     "key1": "Anglicky->Cesky",
